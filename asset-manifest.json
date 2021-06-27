@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nutrition-Analysis/static/css/main.a81a06c5.chunk.css",
+    "main.js": "/Nutrition-Analysis/static/js/main.f91d0b56.chunk.js",
+    "main.js.map": "/Nutrition-Analysis/static/js/main.f91d0b56.chunk.js.map",
+    "runtime-main.js": "/Nutrition-Analysis/static/js/runtime-main.727a0721.js",
+    "runtime-main.js.map": "/Nutrition-Analysis/static/js/runtime-main.727a0721.js.map",
+    "static/js/2.06d7f71a.chunk.js": "/Nutrition-Analysis/static/js/2.06d7f71a.chunk.js",
+    "static/js/2.06d7f71a.chunk.js.map": "/Nutrition-Analysis/static/js/2.06d7f71a.chunk.js.map",
+    "static/js/3.7c917d4f.chunk.js": "/Nutrition-Analysis/static/js/3.7c917d4f.chunk.js",
+    "static/js/3.7c917d4f.chunk.js.map": "/Nutrition-Analysis/static/js/3.7c917d4f.chunk.js.map",
+    "index.html": "/Nutrition-Analysis/index.html",
+    "static/css/main.a81a06c5.chunk.css.map": "/Nutrition-Analysis/static/css/main.a81a06c5.chunk.css.map",
+    "static/js/2.06d7f71a.chunk.js.LICENSE.txt": "/Nutrition-Analysis/static/js/2.06d7f71a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Nutrition-Analysis/static/media/food1.39b2d842.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.727a0721.js",
+    "static/js/2.06d7f71a.chunk.js",
+    "static/css/main.a81a06c5.chunk.css",
+    "static/js/main.f91d0b56.chunk.js"
+  ]
+}
